@@ -1,2 +1,2 @@
 <h1 align="center">Hi 👋, I'm Aayush Tambat</h1>
-<h3 align="center">🚀 Blockchain Enthusiast | Java Developer | Lifelong Learner</h3>
+<h3 align="center"> A Passionate Developing Enthusiast, exploring Java, Springboot and Blockchain Technology</h3>
