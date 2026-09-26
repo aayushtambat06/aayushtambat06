@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Third Year Computer Engineering Student** 
+- 🎓 **Final Year Computer Engineering Student** 
 - 🚀 **Aspiring AI and Data Engineer** with a focus on building scalable ETL pipelines.
 - 🛠️ **Full-Stack Enthusiast** (MERN Stack & Java Spring Boot).
 
